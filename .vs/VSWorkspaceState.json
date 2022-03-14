@@ -1,7 +1,18 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\maven-samples",
+    "\\maven-samples\\single-module",
+    "\\maven-samples\\single-module\\src",
+    "\\maven-samples\\single-module\\src\\main",
+    "\\maven-samples\\single-module\\src\\main\\java",
+    "\\maven-samples\\single-module\\src\\main\\java\\com",
+    "\\maven-samples\\single-module\\src\\main\\java\\com\\example",
+    "\\maven-samples\\single-module\\src\\test",
+    "\\maven-samples\\single-module\\src\\test\\java",
+    "\\maven-samples\\single-module\\src\\test\\java\\com",
+    "\\maven-samples\\single-module\\src\\test\\java\\com\\example"
   ],
-  "SelectedNode": "\\C:\\Users\\juliu\\Source\\Repos\\udemy-jenkins",
+  "SelectedNode": "\\maven-samples\\single-module\\src\\test\\java\\com\\example\\TestGreeter.java",
   "PreviewInSolutionExplorer": false
 }
